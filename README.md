@@ -5,8 +5,8 @@ I’m a Materials Science & Engineering graduate based in Toronto, with hands-on
 
 My technical experience includes:
 
-- Functional testing and verification of clinical monitoring devices (ECG, SpO2, NIBP)  
-- Preventive maintenance and troubleshooting of hospital equipment  
+- Functional testing and verification of clinical monitoring devices 
+- Preventive maintenance and troubleshooting of aesthetic and dental laser equipment  
 - Installation and commissioning of imaging and laser systems  
 - SEM characterization (Hitachi SU3500 & SU7000)  
 - Data analysis (Python, SQL, Excel, GraphPad Prism)  
